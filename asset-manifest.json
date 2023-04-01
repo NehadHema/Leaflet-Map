@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leaflet-Map/static/css/main.d76d1b0d.css",
+    "main.js": "/Leaflet-Map/static/js/main.90b80f5c.js",
+    "static/js/787.7f320c1d.chunk.js": "/Leaflet-Map/static/js/787.7f320c1d.chunk.js",
+    "index.html": "/Leaflet-Map/index.html",
+    "main.d76d1b0d.css.map": "/Leaflet-Map/static/css/main.d76d1b0d.css.map",
+    "main.90b80f5c.js.map": "/Leaflet-Map/static/js/main.90b80f5c.js.map",
+    "787.7f320c1d.chunk.js.map": "/Leaflet-Map/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76d1b0d.css",
+    "static/js/main.90b80f5c.js"
+  ]
+}
